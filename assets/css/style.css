@@ -47,7 +47,7 @@ body {
 /* Start page 1 */
 #middleSection {
     font-family: Arial, Helvetica, sans-serif;
-    margin-top: 25px;
+    margin-top: 15px;
 }
 
 #personalImage {
@@ -116,7 +116,7 @@ margin-top: 25px;
 
 /* page 2 */
 #Portfolio {
-    margin-top: 25px;
+    margin-top: 15px;
     margin-bottom: 50px;;
     overflow: hidden;
  }
@@ -165,7 +165,7 @@ transition: .4s;
 /* Start of contacts page*/
 
 #contact {
-    margin-top: 25px;
+    margin-top: 15px;
 }
 
 .messageText {
